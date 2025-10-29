@@ -22,7 +22,7 @@ TAFJ_URL="http://localhost:8080/TAFJRestServices/resources/ofs"
 AUTH_HEADER="Authorization: Basic dGFmai5hZG1pbjpBWElAZ3RwcXJYNA=="
 CONTENT_TYPE="content-type: application/json"
 
-echo "🟡 Sending STOP command for $TSM_NAME..."
+echo "🟡 Sending START command for $TSM_NAME..."
 echo "OFS Request: $OFS_COMMAND"
 echo "--------------------------------------"
 
